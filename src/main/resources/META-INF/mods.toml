@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="jiomes"
+version="1.0.0"
+displayName="Jiomes"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="jaden, MCreator"
+
+[[dependencies.jiomes]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
