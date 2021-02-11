@@ -1,14 +1,17 @@
 modLoader="javafml"
 loaderVersion="[35,)"
-license="Academic Free License v3.0"
+license="Direct License"
 
 [[mods]]
 modId="jiomes"
-version="1.0.0"
+version="1.0.5.1"
 displayName="Jiomes"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="jaden, MCreator"
+credits="The entire mod is being made by Jaden/Red."
+displayURL="http://iredmc.us.to/jadensmods/"
+authors="Red (misterrredstone/Jaden LeMieux/iRedMC)"
+description='''
+This is my test mod that I will just be using to test various thngs so yea. -jaden-
+'''
 
 [[dependencies.jiomes]]
     modId="minecraft"

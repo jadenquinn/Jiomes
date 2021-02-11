@@ -89,10 +89,11 @@
   "workspaceSettings": {
     "modid": "jiomes",
     "modName": "Jiomes",
-    "version": "1.0.0",
-    "author": "jaden, MCreator",
-    "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "version": "1.0.5.1",
+    "description": "This is my test mod that I will just be using to test various thngs so yea. -jaden-",
+    "author": "Red (misterrredstone/Jaden LeMieux/iRedMC)",
+    "websiteURL": "http://iredmc.us.to/jadensmods/",
+    "license": "Direct License",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
@@ -100,6 +101,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.4",
+    "credits": "The entire mod is being made by Jaden/Red.",
     "modElementsPackage": "to.us.iredmc.jiomes",
     "lockBaseModFiles": false
   },
