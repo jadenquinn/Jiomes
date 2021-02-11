@@ -1,1 +1,6 @@
-{}
+{
+  "itemGroup.tabmusic": "Music",
+  "itemGroup.tabitems": "Items",
+  "itemGroup.tabblocks": "Blocks",
+  "itemGroup.tabpaintings": "Paintings"
+}

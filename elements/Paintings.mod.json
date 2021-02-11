@@ -1,0 +1,11 @@
+{
+  "_fv": 15,
+  "_type": "tab",
+  "definition": {
+    "name": "Paintings",
+    "icon": {
+      "value": "Items.PAINTING"
+    },
+    "showSearch": true
+  }
+}
