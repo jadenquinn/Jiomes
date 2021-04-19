@@ -86,10 +86,14 @@
       "itemGroup.tabpaintings": "Paintings"
     }
   },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
   "workspaceSettings": {
     "modid": "jiomes",
     "modName": "Jiomes",
-    "version": "1.0.5.1",
+    "version": "1.0.5.2",
     "description": "This is my test mod that I will just be using to test various thngs so yea. -jaden-",
     "author": "Red (misterrredstone/Jaden LeMieux/iRedMC)",
     "websiteURL": "http://iredmc.us.to/jadensmods/",
@@ -105,5 +109,5 @@
     "modElementsPackage": "to.us.iredmc.jiomes",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202100103117
+  "mcreatorVersion": 202100112313
 }
